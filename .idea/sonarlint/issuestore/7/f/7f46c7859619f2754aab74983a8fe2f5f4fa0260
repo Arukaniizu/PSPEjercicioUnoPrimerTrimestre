@@ -1,0 +1,12 @@
+
+T	java:S106'"9Replace this use of System.out or System.err by a logger.(È¤”%8×„§İŞ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îâ¢¼ûÿÿÿÿ
+\
+java:S2142&"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+`
+java:S3518"CMake sure "numeroDeHilos" can't be zero before doing this division.(Û–¹8÷–“İŞ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğ×Àÿÿÿÿÿ8÷–“İŞ.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ïœàó
+T	java:S106/"9Replace this use of System.out or System.err by a logger.(È¤”%8ü³©İŞ.
+\
+java:S2142."FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

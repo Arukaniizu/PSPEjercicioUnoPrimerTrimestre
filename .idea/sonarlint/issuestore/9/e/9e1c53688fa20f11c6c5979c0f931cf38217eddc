@@ -1,0 +1,17 @@
+
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(„€´µ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(àÍº¸
+e
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".( ¨—±ûÿÿÿÿ8ƒä İŞ.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ƒä İŞ.
+b
+java:S2095 "GUse try-with-resources or close this "Statement" in a "finally" clause.(Á‚´ïûÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âşûÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(œšû™
+e
+java:S2259)"JA "NullPointerException" could be thrown; "consultaBBDD" is nullable here.(ŞŒç²şÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Ü½ÿÖ
+?
+java:S21404")Use "java.util.Random.nextInt()" instead.(ä·µ
